@@ -1,7 +1,7 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Multiverse', // <title>
-  manifestName: 'Multiverse',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'AI', // <title>
+  manifestName: 'Arun & Indhuja',
+  manifestShortName: 'AI', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
